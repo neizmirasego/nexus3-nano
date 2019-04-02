@@ -6,7 +6,7 @@ docker pull tburnett80/nexus3-nano
 
 The default image is based on nano server 2016 and Nexus version 3.15.2-01
 
-The tags will be <windows architecture>-<nexus oss version> or sac2016-3.15.2-01
+The tags will be (windows architecture)-(nexus oss version) example: sac2016-3.15.2-01
 
 
 To build this docker file: 
